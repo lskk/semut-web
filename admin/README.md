@@ -1,0 +1,2 @@
+Administrator pages of BSTS
+
